@@ -33,11 +33,11 @@ Main project file with all calculations and visualization
 1. Changing island names to country names and country names to country shortens.
 2. Grouping data and calculating average prices.
 3. Creating visualization to show Itaka and BalticTours travel directions and price comparison. 
-![img_2.png](img_2.png)
+![Total_travel_offers](Pictures/Total_travel_offers.png)
 
 4. Counting all travel offers by both agencies and identifying top 5 most offered countries.
 5. Creating country and travel offer unit's lists for pie chart visualization.
-![img_3.png](img_3.png)
+![Top_5_countries_offered](Pictures/Top_5_countries_offered.png)
 
 6. As we find out that in Itaka and BalticTours there are Spain and Greece in top 3. We decide to deeper analyze and compare these travel offers.
 7. Calculating separately Spain and Greece travel offers by average price and average duration. After analyze Greece data, we found out that both travel agencies offer almost the same trips on duration and price.
@@ -45,11 +45,11 @@ We chose to analyze Spain cities by duration and average price.
 
 8. Grouping Spain offers by cities and calculating correlation between average price and average duration. Showing the correlation in scatter plot visualization.
 
-![img_4.png](img_4.png)
+![Spain_cities](Pictures/Spain_cities.png)
 
 9. Analyzing and comparing top 5 most expensive travel directions by Itaka and BalticTours. Comparing by average price and average duration.
 
-![img_6.png](img_6.png)
+![Top_5_most_expensive](Pictures/Top_5_most_expensive.png)
 
 
 ### Conclusions:

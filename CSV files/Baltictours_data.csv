@@ -1,0 +1,262 @@
+Country,City,Date,Hotel_stars,Price,Duration
+Turkija,Kemeras,2024-04-10,4,505,7
+Turkija,Alanija,2024-04-18,5,729,7
+Tunisas,Enfida,2024-05-03,4,589,7
+Tunisas,Susas,2024-04-23,5,569,7
+Ispanija,Kosta Dorada,2024-05-17,4,642,7
+Malta,St. Julian's,2024-03-08,4,549,3
+Turkija,Sidė,2024-04-05,5,585,7
+Turkija,Alanija,2024-05-02,5,705,7
+Tunisas,Hamametas,2024-05-03,5,605,7
+Tunisas,Chamametas,2024-05-10,5,665,7
+Jungtinė Karalystė,Londonas,2024-03-08,4,450,3
+Turkija,Alanija,2024-04-18,5,666,7
+Italija,Roma,2024-03-09,4,616,3
+Tunisas,Enfida,2024-05-03,5,739,7
+Egiptas,Hurgada,2024-03-05,4,831,7
+Graikija,Kreta,2024-04-27,4,759,7
+Turkija,Kemeras,2024-04-11,5,688,7
+Graikija,Rodo sala,2024-05-04,4,604,7
+Šri Lanka,Beruwela,2024-03-09,5,1529,10
+Turkija,Alanija,2024-04-05,5,456,7
+Kipras,Pafosas,2024-03-01,4,534,7
+Tunisas,Mahdija,2024-05-02,4,479,7
+Turkija,Antalija,2024-04-16,5,777,7
+Turkija,Sidė,2024-04-08,5,657,7
+Turkija,Sidė,2024-04-05,5,611,7
+Egiptas,Hurgada,2024-03-03,5,690,7
+Turkija,Kemeras,2024-04-15,4,593,7
+Jungtinė Karalystė,Londonas,2024-03-30,4,408,2
+Tunisas,Enfida,2024-04-26,4,515,7
+Turkija,Alanija,2024-04-07,5,530,7
+Tailandas,Pataja,2024-03-05,3,1375,13
+Turkija,Alanija,2024-04-05,5,594,7
+Italija,Val Rendena,2024-03-09,3,575,7
+Portugalija,Madeira,2024-03-12,4,729,7
+Šri Lanka,Beruwela,2024-04-04,5,1545,10
+Graikija,Kreta,2024-05-04,4,610,7
+Graikija,Kreta,2024-05-04,4,712,7
+Turkija,Alanija,2024-04-09,5,675,7
+Italija,Val Rendena,2024-03-09,3,595,7
+Tailandas,Puketas,2024-03-01,3,1625,14
+Turkija,Sidė,2024-04-08,4,674,7
+Turkija,Alanija,2024-04-05,5,624,7
+Portugalija,Madeira,2024-03-19,3,839,7
+Turkija,Alanija,2024-04-05,4,350,7
+Tunisas,Monastyras,2024-04-26,4,585,7
+Ispanija,Tenerifė,2024-03-15,3,1477,7
+Graikija,Taso sala,2024-05-26,4,709,7
+Indonezija,Balio sala,2024-03-18,4,1769,13
+Tunisas,Monastyras,2024-04-23,4,515,7
+Italija,Val Rendena,2024-03-16,3,855,7
+Turkija,Sidė,2024-04-12,5,894,7
+Italija,Livinjas,2024-03-16,3,665,7
+Turkija,Alanija,2024-04-11,5,545,7
+Tunisas,Hamametas,2024-05-07,4,725,7
+Kipras,Aja Napa,2024-05-01,4,566,7
+Turkija,Alanija,2024-04-21,5,635,7
+Egiptas,Šarm Aš Šeichas,2024-03-06,5,860,7
+Graikija,Kreta,2024-05-11,4,558,7
+Ispanija,Barselona,2024-03-04,4,669,7
+Tunisas,Hamametas,2024-04-23,4,595,7
+Graikija,Kreta,2024-05-11,4,667,7
+Tunisas,Enfida,2024-05-02,4,462,7
+Turkija,Sidė,2024-05-02,4,591,7
+Graikija,Zakintas,2024-05-28,5,909,7
+Turkija,Sidė,2024-04-09,5,548,7
+Graikija,Taso sala,2024-05-19,5,829,7
+Tailandas,Pataja,2024-03-12,4,1629,13
+Tunisas,Enfida,2024-04-26,4,509,7
+Juodkalnija,Tivatas,2024-05-20,4,815,7
+Turkija,Alanija,2024-04-08,5,565,7
+Turkija,Alanija,2024-04-23,5,657,7
+Egiptas,Makadi Bėjus,2024-03-06,5,842,7
+Tunisas,Susas,2024-05-07,5,769,7
+Turkija,Alanija,2024-04-07,5,739,7
+Egiptas,Hurgada,2024-03-23,5,1385,7
+Ispanija,Tenerifė,2024-04-09,2,915,7
+Malta,Sliema kurortas,2024-03-01,4,576,7
+Graikija,Kreta,2024-05-07,4,626,7
+Turkija,Alanija,2024-04-16,5,675,7
+Šri Lanka,Galė,2024-03-20,5,1681,10
+Graikija,Kreta,2024-05-03,2,545,7
+Albanija,Duresis,2024-05-30,4,709,7
+Turkija,Sidė,2024-04-10,5,680,7
+Italija,Riminis,2024-05-30,4,849,7
+Turkija,Sidė,2024-04-24,5,612,7
+Graikija,Zakintas,2024-05-28,4,999,7
+Kroatija,Dubrovnikas,2024-05-20,4,1179,7
+Tunisas,Monastyras,2024-05-03,4,519,7
+Graikija,Kreta,2024-05-05,5,715,7
+Turkija,Alanija,2024-04-09,4,481,7
+Juodkalnija,Tivatas,2024-05-23,5,712,7
+Jungtinė Karalystė,Londonas,2024-03-30,3,287,2
+Turkija,Alanija,2024-04-06,5,589,7
+Graikija,Kreta,2024-05-07,4,806,7
+Graikija,Zakintas,2024-05-28,4,869,7
+Tunisas,Enfida,2024-04-30,4,595,7
+Ispanija,Tenerifė,2024-03-06,4,1265,7
+Turkija,Sidė,2024-04-08,5,624,7
+Tunisas,Monastyras,2024-04-30,4,583,7
+Turkija,Kemeras,2024-04-17,5,589,7
+Ispanija,Tenerifė,2024-04-23,4,1239,7
+Graikija,Taso sala,2024-05-26,3,719,7
+Turkija,Sidė,2024-04-17,5,1141,7
+Ispanija,Tenerifė,2024-03-22,3,1231,7
+Juodkalnija,Tivatas,2024-05-19,4,717,7
+Graikija,Kreta,2024-05-03,5,726,7
+Turkija,Sidė,2024-04-22,5,636,7
+Graikija,Kreta,2024-05-02,5,685,7
+Turkija,Sidė,2024-04-22,4,619,7
+Tunisas,Susas,2024-05-07,5,765,7
+Tanzanija,Zanzibaras,2024-03-16,4,1429,11
+Graikija,Kreta,2024-05-02,5,813,7
+Turkija,Belekas,2024-04-22,5,915,7
+Graikija,Kreta,2024-05-02,4,580,7
+Juodkalnija,Budva,2024-05-27,4,837,7
+Ispanija,Tenerifė,2024-04-23,4,1399,7
+Juodkalnija,Tivatas,2024-05-30,4,806,7
+Turkija,Kemeras,2024-04-10,4,554,7
+Ispanija,Tenerifė,2024-04-09,5,1549,7
+Portugalija,Madeira,2024-03-11,4,1041,7
+Turkija,Alanija,2024-04-10,5,785,7
+Juodkalnija,Tivatas,2024-05-30,3,679,7
+Graikija,Kreta,2024-05-13,4,759,7
+Turkija,Alanija,2024-05-02,5,610,7
+Graikija,Kreta,2024-04-27,4,739,7
+Juodkalnija,Tivatas,2024-05-13,4,979,7
+Graikija,Zakintas,2024-05-21,4,829,7
+Graikija,Kreta,2024-05-05,4,613,7
+Graikija,Kreta,2024-04-30,5,1085,7
+Graikija,Zakintas,2024-05-21,4,749,7
+Turkija,Alanija,2024-04-12,5,574,7
+Turkija,Alanija,2024-05-01,4,555,7
+Turkija,Kemeras,2024-05-27,5,1016,7
+Turkija,Alanija,2024-04-12,5,556,7
+Juodkalnija,Tivatas,2024-05-13,5,909,7
+Juodkalnija,Tivatas,2024-05-16,4,745,7
+Graikija,Kreta,2024-05-04,5,706,7
+Juodkalnija,Tivatas,2024-05-16,4,719,7
+Portugalija,Madeira,2024-04-15,3,969,7
+Ispanija,Tenerifė,2024-04-02,4,1539,7
+Turkija,Kemeras,2024-04-03,4,605,7
+Graikija,Kreta,2024-05-07,4,583,7
+Portugalija,Madeira,2024-04-29,3,859,7
+Graikija,Rodo sala,2024-05-08,3,719,7
+Tunisas,Enfida,2024-04-23,5,665,7
+Ispanija,Maljorka,2024-05-04,3,359,3
+Ispanija,Tenerifė,2024-03-20,3,1296,7
+Portugalija,Madeira,2024-03-25,5,1459,7
+Turkija,Alanija,2024-04-10,5,1085,7
+Kipras,Larnaka,2024-03-08,3,485,3
+Graikija,Kreta,2024-05-10,4,765,7
+Ispanija,Tenerifė,2024-04-16,3,1055,7
+Marokas,Agadyras,2024-03-09,4,1159,7
+Portugalija,Madeira,2024-04-30,4,1089,8
+Graikija,Kreta,2024-05-07,4,787,7
+Kipras,Larnaka,2024-03-01,4,568,5
+Ispanija,Maljorka,2024-05-14,4,481,7
+Portugalija,Madeira,2024-05-13,4,930,7
+Graikija,Rodo sala,2024-05-01,4,706,7
+Kipras,Larnaka,2024-03-15,4,577,3
+Graikija,Kreta,2024-05-17,4,769,7
+Graikija,Kreta,2024-05-07,4,740,7
+Mauricijus,Poste Lafayette,2024-03-13,4,2009,8
+Turkija,Alanija,2024-04-05,5,650,7
+Ispanija,Barselona,2024-05-01,3,495,2
+Portugalija,Madeira,2024-03-05,3,799,7
+Malta,Qawra kurortas,2024-05-17,4,312,2
+Ispanija,Tenerifė,2024-04-16,3,1149,7
+Graikija,Kreta,2024-05-02,4,573,7
+Ispanija,Tenerifė,2024-04-16,4,1055,7
+Turkija,Kemeras,2024-05-14,5,824,7
+Tunisas,Enfida,2024-05-28,4,576,7
+Tunisas,Hamametas,2024-04-26,5,885,7
+Kipras,Larnaka,2024-04-03,4,790,7
+Kipras,Pafosas,2024-03-15,4,460,3
+Ispanija,Tenerifė,2024-03-06,4,1069,7
+Ispanija,Maljorka,2024-05-11,4,506,7
+Ispanija,Tenerifė,2024-03-13,5,1725,7
+Portugalija,Madeira,2024-05-06,4,878,7
+Turkija,Alanija,2024-04-25,5,673,7
+Graikija,Kreta,2024-05-18,4,625,7
+Turkija,Kemeras,2024-04-20,5,865,7
+Tailandas,Puketas,2024-03-29,4,1789,14
+Ispanija,Tenerifė,2024-04-09,4,1315,7
+Italija,Sorento,2024-04-20,3,699,3
+Graikija,Korfu,2024-05-07,2,467,7
+Tailandas,Krabi,2024-03-29,4,2029,14
+Šri Lanka,Ahungalla,2024-04-04,5,1875,10
+Graikija,Kreta,2024-05-03,4,599,7
+Graikija,Kreta,2024-05-04,4,808,7
+Mauricijus,Trou D'eau Douce,2024-03-17,3,2479,11
+Tunisas,Chamametas,2024-04-23,5,985,7
+Turkija,Kemeras,2024-05-12,4,705,7
+Ispanija,Kosta Dorada,2024-05-10,4,699,7
+Ispanija,Maljorka,2024-05-24,4,1029,7
+Tanzanija,Zanzibaras,2024-04-06,3,1499,11
+Turkija,Kemeras,2024-04-06,5,855,7
+Graikija,Kreta,2024-05-01,5,974,7
+Turkija,Sidė,2024-05-08,5,839,7
+Tailandas,Puketas,2024-04-12,4,2525,14
+Dominikos Respublika,Punta Kana,2024-03-10,5,2625,12
+Ispanija,Tenerifė,2024-04-09,4,1479,7
+Kipras,Larnaka,2024-03-04,4,532,7
+Turkija,Sidė,2024-04-17,5,792,7
+Graikija,Korfu,2024-05-20,4,753,7
+Mauricijus,Trou aux Biches,2024-03-31,3,2439,11
+Italija,Riminis,2024-05-30,4,835,7
+Tunisas,Chamametas,2024-05-14,5,1016,7
+Ispanija,Maljorka,2024-05-31,4,1245,7
+Kipras,Pafosas,2024-04-07,5,626,3
+Tunisas,Enfida,2024-05-03,5,820,7
+Tunisas,Susas,2024-05-10,5,826,7
+Kipras,Aja Napa,2024-04-26,4,579,7
+Portugalija,Madeira,2024-03-11,4,1177,7
+Kipras,Aja Napa,2024-05-08,4,537,7
+Ispanija,Maljorka,2024-05-31,4,1155,7
+Portugalija,Madeira,2024-03-11,5,1391,7
+Ispanija,Tenerifė,2024-04-23,4,1495,7
+Egiptas,Hurgada,2024-05-01,5,843,7
+Kuba,Varaderas,2024-03-17,3,2025,13
+Tanzanija,Zanzibaras,2024-04-06,4,1655,11
+Turkija,Alanija,2024-05-01,5,919,7
+Ispanija,Maljorka,2024-05-24,4,1125,7
+Marokas,Agadyras,2024-03-12,3,1689,11
+Egiptas,Šarm Aš Šeichas,2024-03-07,5,659,7
+Portugalija,Madeira,2024-04-22,4,1405,7
+Turkija,Sidė,2024-04-20,5,955,7
+Turkija,Belekas,2024-05-14,5,1265,7
+Albanija,Duresis,2024-05-30,4,839,7
+Kipras,Aja Napa,2024-04-01,5,857,7
+Ispanija,Maljorka,2024-05-31,4,1559,7
+Malta,Mellieha,2024-04-28,5,958,7
+Kipras,Aja Napa,2024-05-03,4,524,7
+Turkija,Alanija,2024-04-28,4,573,7
+Turkija,Belekas,2024-03-30,5,819,7
+Tailandas,Pataja,2024-03-05,4,2005,13
+Juodkalnija,Bečicis,2024-05-19,4,650,7
+Graikija,Kreta,2024-05-14,5,698,7
+Tunisas,Hamametas,2024-05-09,5,599,7
+Kuba,Varaderas,2024-03-17,3,2089,13
+Turkija,Kemeras,2024-03-31,5,740,7
+Tailandas,Puketas,2024-03-29,3,1709,14
+Juodkalnija,Petrovacas,2024-05-27,4,675,7
+Juodkalnija,Tivatas,2024-05-19,4,570,7
+Turkija,Alanija,2024-04-28,4,499,7
+Juodkalnija,Tivatas,2024-05-29,5,857,7
+Mauricijus,Grand Bė,2024-03-17,3,1899,11
+Turkija,Sidė,2024-03-31,5,844,7
+Šri Lanka,Kolombas,2024-03-25,4,2069,12
+Mauricijus,Bel Maras,2024-03-17,4,2219,11
+Mauricijus,Mon Šuazi,2024-03-17,3,2035,11
+Šri Lanka,Kolombas,2024-03-06,4,1805,13
+Tunisas,Susas,2024-05-20,5,714,7
+Tunisas,Susas,2024-05-02,4,655,7
+Turkija,Alanija,2024-04-21,4,645,7
+Mauricijus,Flik an Flak,2024-03-18,4,2349,10
+Turkija,Alanija,2024-05-05,5,989,7
+Ispanija,Tenerifė,2024-04-16,4,1215,7
+Portugalija,Madeira,2024-05-20,4,1470,7
+Ispanija,Maljorka,2024-05-17,4,979,7
+Mauricijus,Mon Šuazi,2024-03-17,3,2259,11

@@ -1,0 +1,318 @@
+Hotel_name,Price,Hotel_stars,Country,City,Duration,Date
+Altinkaya Holiday Resort,449,3,Šiaurės Kipras, ,7,2024-04-26
+Riverside Garden Resort,489,4,Šiaurės Kipras, ,7,2024-04-26
+Amber Hotel Istanbul,489,4,Turkija,Stambulas,3,2024-03-12
+Plaža Omiš,499,4,Kroatija,Splitas,3,2024-04-12
+Kazaviti,499,3,Graikija,Tasas,7,2024-05-19
+La Boheme Luxurious Apartamentai,509,3,Graikija,Tasas,7,2024-05-19
+Ola,519,4,Kroatija,Splitas,3,2024-04-12
+Long Beach Resort,519,4,Šiaurės Kipras, ,7,2024-04-19
+Villa Verica,519,3,Kroatija,Splitas,3,2024-04-12
+Golden Crown,529,3,Turkija,Stambulas,3,2024-03-12
+Beyazit Palace,539,4,Turkija,Stambulas,3,2024-03-25
+MG Alexander The Great,539,4,Egiptas,Marsa Alamas,7,2024-03-09
+Valamar Meteor Hotel,549,4,Kroatija,Splitas,3,2024-04-12
+Zurich Istanbul,549,4,Turkija,Stambulas,3,2024-03-12
+Orka Royal Hotel and SPA,549,4,Turkija,Stambulas,3,2024-03-25
+Aprilis Gold,549,4,Turkija,Stambulas,3,2024-03-25
+Grand Hotel Slavia,549,4,Kroatija,Splitas,3,2024-04-12
+Alhambra Hotel,549,4,Ispanija,Barselona,3,2024-05-04
+Pineda Splash,549,4,Ispanija,Barselona,3,2024-05-04
+Best Sciroco,559,4,Ispanija,Malaga (Kosta del Solis),3,2024-03-02
+Yigitalp Istanbul,559,4,Turkija,Stambulas,3,2024-03-27
+Villa Fylaktos,559,3,Graikija,Tasas,7,2024-05-19
+Caprici Beach Hotel & Spa,559,4,Ispanija,Barselona,3,2024-05-04
+Tropic Park,559,4,Ispanija,Barselona,4,2024-05-12
+Akgun Istanbul,569,5,Turkija,Stambulas,3,2024-03-12
+Lady Diana Hotel & Spa,569,4,Turkija,Stambulas,3,2024-03-12
+Catch Hotel Sultanahmet,569,3,Turkija,Stambulas,3,2024-03-12
+Thassos,579,3,Graikija,Tasas,7,2024-05-19
+Barcelona Condal Mar Affiliated by Meliá,579,4,Ispanija,Barselona,3,2024-03-01
+Occidental Atenea Mar,589,4,Ispanija,Barselona,3,2024-03-15
+Blue Reef Resort,589,4,Egiptas,Marsa Alamas,7,2024-03-02
+Port Bosphorus Hotel,599,4,Turkija,Stambulas,3,2024-03-26
+Skalion Hotel & Spa,599,4,Turkija,Stambulas,3,2024-03-26
+Royal Brayka Resort,599,5,Egiptas,Marsa Alamas,7,2024-03-02
+Malikia Resort Abu Dabbab,599,5,Egiptas,Marsa Alamas,7,2024-03-02
+Front Maritim,599,4,Ispanija,Barselona,3,2024-03-01
+Aranea,599,3,Ispanija,Barselona,4,2024-03-04
+Oudaya,609,3,Marokas,Marakešas,4,2024-03-26
+D-Resort Šibenik,609,4,Kroatija,Splitas,3,2024-04-12
+Pia Bella,609,4,Šiaurės Kipras, ,7,2024-04-19
+Melas Istanbul,619,5,Turkija,Stambulas,3,2024-03-12
+Monarque Fuengirola Park,619,4,Ispanija,Malaga (Kosta del Solis),3,2024-03-23
+Dream Lagoon & Aquapark Resort,619,5,Egiptas,Marsa Alamas,7,2024-03-02
+Evalena Beach Hotel,629,4,Kipras,Larnaka,7,2024-04-26
+Ilusion Vista Blava,629,3,Ispanija,Maljorka,3,2024-05-10
+Gorrion Istanbul,629,5,Turkija,Stambulas,3,2024-05-20
+Aparthotel Atenea Calabria,629,3,Ispanija,Barselona,4,2024-03-04
+Bluesun Hotel Maestral,639,4,Kroatija,Splitas,3,2024-05-03
+Seven Hills Palace,639,4,Turkija,Stambulas,3,2024-03-26
+Four Seasons,639,3,Graikija,Tasas,7,2024-05-19
+Aeria,639,3,Graikija,Tasas,7,2024-05-19
+Lazuli Resort,639,5,Egiptas,Marsa Alamas,7,2024-03-23
+Casa Mare Resort (Ex. Royal Tulip Beach Resort),639,5,Egiptas,Marsa Alamas,7,2024-04-13
+Aparthotel Atenea Barcelona,639,4,Ispanija,Barselona,4,2024-03-11
+Sataya Resort Marsa Alam,639,5,Egiptas,Marsa Alamas,7,2024-03-16
+Tasia Maris Seasons,649,4,Kipras,Larnaka,7,2024-04-26
+Vincci Mae,649,4,Ispanija,Barselona,4,2024-03-04
+Melia Costa Del Sol,649,4,Ispanija,Malaga (Kosta del Solis),3,2024-03-02
+Sunrise,659,4,Graikija,Zakintas,7,2024-05-21
+Dosso Dossi Old City,659,4,Turkija,Stambulas,3,2024-03-18
+Salamis Bay Conti Resort,669,5,Šiaurės Kipras, ,7,2024-04-19
+Atrium,669,4,Graikija,Tasas,7,2024-05-19
+A For Art,679,4,Graikija,Tasas,7,2024-05-19
+Brayka Bay Resort,679,5,Egiptas,Marsa Alamas,7,2024-03-02
+Stamatia,679,3,Kipras,Larnaka,7,2024-04-26
+Nestor,679,4,Kipras,Larnaka,7,2024-04-26
+Lapida,679,3,Šiaurės Kipras, ,7,2024-05-03
+Villa Natassa,689,3,Graikija,Tasas,7,2024-05-19
+H10 Metropolitan,689,4,Ispanija,Barselona,3,2024-03-15
+Remisens Epidaurus,689,3,Kroatija,Dubrovnikas,4,2024-05-14
+Rixos Pera Istanbul,689,5,Turkija,Stambulas,3,2024-03-25
+Concorde Moreen Beach Resort & Spa,689,5,Egiptas,Marsa Alamas,7,2024-03-02
+Inspira boutique (Adults Only),699,4,Graikija,Tasas,7,2024-05-19
+Dom Pedro Garajau,699,3,Madeira, ,7,2024-03-05
+MS Amaragua,699,4,Ispanija,Malaga (Kosta del Solis),3,2024-03-16
+Vincci Gala,699,4,Ispanija,Barselona,3,2024-03-01
+Pickalbatros Sea World Marsa Alam,699,5,Egiptas,Marsa Alamas,7,2024-03-02
+Planos,709,4,Graikija,Zakintas,7,2024-05-21
+Riad Armelle,729,4,Marokas,Marakešas,3,2024-03-23
+Tasia Maris Sands,709,4,Kipras,Larnaka,7,2024-04-26
+Best Benalmadena,719,4,Ispanija,Malaga (Kosta del Solis),7,2024-03-12
+Aeolis Thassos Palace,719,4,Graikija,Tasas,7,2024-05-19
+Sentido Akassia Beach,719,5,Egiptas,Marsa Alamas,7,2024-03-02
+Dorisol Estrelicia,719,3,Madeira, ,7,2024-03-12
+Vassos Nissi Plage,719,4,Kipras,Larnaka,7,2024-04-26
+Catalonia Square,729,4,Ispanija,Barselona,3,2024-03-01
+Manolya,729,3,Šiaurės Kipras, ,7,2024-04-19
+Grand Hotel Park,729,4,Kroatija,Dubrovnikas,4,2024-05-14
+Medplaya Hotel Bali,739,3,Ispanija,Malaga (Kosta del Solis),7,2024-03-12
+The Three Corners Sea Beach Resort,729,4,Egiptas,Marsa Alamas,7,2024-03-02
+The Three Corners Happy Life Beach Resort,729,4,Egiptas,Marsa Alamas,7,2024-03-02
+Oscar Resort,739,4,Šiaurės Kipras, ,7,2024-04-19
+New Beach Hotel,739,4,Graikija,Zakintas,7,2024-05-21
+CVK Park Bosphorus Istanbul,749,5,Turkija,Stambulas,3,2024-03-18
+Zoe,750,4,Graikija,Tasas,7,2024-05-19
+Casa Blue Resort,759,5,Egiptas,Marsa Alamas,7,2024-03-23
+Remisens Albatros,759,4,Kroatija,Dubrovnikas,4,2024-05-14
+Iliada Beach,769,4,Kipras,Larnaka,7,2024-05-03
+Ntinas Filoxenia,779,4,Graikija,Tasas,7,2024-05-19
+Mountain View,779,3,Šiaurės Kipras, ,7,2024-05-24
+Vuni Palace,779,5,Šiaurės Kipras, ,7,2024-04-19
+HM Balanguera Beach – Adults Only,789,4,Ispanija,Maljorka,4,2024-05-13
+Palma Bellver Affiliated By Meliá,799,4,Ispanija,Maljorka,3,2024-05-24
+Acapulco Beach & Spa Resort,799,5,Šiaurės Kipras, ,7,2024-04-26
+Balmoral,799,3,Ispanija,Malaga (Kosta del Solis),5,2024-04-19
+Royal Paradise Beach Resort & Spa,799,5,Graikija,Tasas,7,2024-05-19
+Gloria Maris,799,4,Graikija,Zakintas,7,2024-05-21
+Monte Mar Palace,804,4,Madeira, ,7,2024-03-12
+Ramada Plaza by Windham,809,5,Graikija,Kavala,7,2024-05-19
+Rachoni Amazing,809,3,Graikija,Tasas,7,2024-05-19
+Sun Gardens Dubrovnik,819,5,Kroatija,Dubrovnikas,4,2024-05-21
+Thassos Grand Resort,829,5,Graikija,Tasas,7,2024-05-19
+Mövenpick Resort El Quseir,829,5,Egiptas,Marsa Alamas,7,2024-03-02
+The Three Corners Fayrouz Plaza Beach,829,5,Egiptas,Marsa Alamas,7,2024-03-02
+Courtyard Long Beach Holiday Resort,829,4,Šiaurės Kipras, ,7,2024-05-03
+Estalagem do Mar,839,3,Madeira, ,7,2024-03-19
+Socrates Plaza,839,3,Graikija,Tasas,7,2024-05-19
+Valamar Lacroma,849,4,Kroatija,Dubrovnikas,4,2024-05-14
+Hilton Marsa Alam Nubian Resort,849,5,Egiptas,Marsa Alamas,7,2024-03-02
+Ionis Art,849,4,Graikija,Zakintas,7,2024-05-21
+Sentido Sandy Beach,849,4,Kipras,Larnaka,7,2024-04-26
+Swissotel The Bosphorus,849,5,Turkija,Stambulas,3,2024-03-12
+Alea & Suites,859,4,Graikija,Tasas,7,2024-05-19
+Ilio Mare,859,5,Graikija,Tasas,7,2024-05-19
+Saratoga,859,4,Ispanija,Maljorka,3,2024-05-24
+Golden Coast Resort,869,4,Graikija,Zakintas,7,2024-05-21
+Arabian Park Dubai – Edge by Rotana,869,3,Jungtiniai Arabų Emyratai,Dubajus,5,2024-05-01
+Sol Principe,869,4,Ispanija,Malaga (Kosta del Solis),5,2024-04-19
+Meliá Palma Marina,879,4,Ispanija,Maljorka,3,2024-05-17
+Azure Resort & Spa,879,5,Graikija,Zakintas,7,2024-05-21
+Pelagos Zante,889,4,Graikija,Zakintas,7,2024-05-21
+AluaSun Marbella Park,899,3,Ispanija,Malaga (Kosta del Solis),5,2024-04-19
+Holiday Inn Express Jumeirah,899,2,Jungtiniai Arabų Emyratai,Dubajus,5,2024-05-01
+Akassia Swiss Resort,899,5,Egiptas,Marsa Alamas,7,2024-04-06
+"Citymax, Al Barsha at the Mall",909,3,Jungtiniai Arabų Emyratai,Dubajus,5,2024-05-15
+Golden Tulip Media,909,4,Jungtiniai Arabų Emyratai,Dubajus,5,2024-05-15
+"Zante Park Resort & Spa, BW Premier Collection",909,5,Graikija,Zakintas,7,2024-05-21
+Limak Cyprus Deluxe,909,5,Šiaurės Kipras, ,7,2024-04-19
+Citymax Al Barsha,919,3,Jungtiniai Arabų Emyratai,Dubajus,5,2024-05-15
+Lordos Beach Hotel & Spa,919,4,Kipras,Larnaka,7,2024-05-03
+Grecian Park,929,5,Kipras,Larnaka,7,2024-05-03
+Lapad,939,4,Kroatija,Dubrovnikas,4,2024-05-14
+Arkin Palm Beach,939,5,Šiaurės Kipras, ,7,2024-04-19
+Denizkizi,939,4,Šiaurės Kipras, ,7,2024-05-03
+Grecian Bay,939,5,Kipras,Larnaka,7,2024-04-26
+Denizkizi Royal,949,4,Šiaurės Kipras, ,7,2024-05-03
+Jaz Lamaya Resort,959,5,Egiptas,Marsa Alamas,7,2024-03-02
+Blue Sea Callao Garden,959,3,Kanarų salos,Tenerifė,4,2024-03-24
+Louis St. Elias Resort,959,4,Kipras,Larnaka,7,2024-04-26
+Santa Clara Urban Hotel & Spa,969,4,Ispanija,Maljorka,3,2024-05-24
+"Amanti, MadeForTwo",969,5,Kipras,Larnaka,7,2024-04-26
+Element City Center Doha,969,5,Kataras, ,3,2024-03-11
+Amare Beach Hotel Marbella,969,4,Ispanija,Malaga (Kosta del Solis),3,2024-03-23
+Alua Tenerife,979,4,Kanarų salos,Tenerifė,4,2024-03-24
+Jaz Maraya Resort,979,5,Egiptas,Marsa Alamas,7,2024-03-02
+Hipotels Gran Playa de Palma,979,4,Ispanija,Maljorka,4,2024-05-20
+Rove Downtown Dubai,979,3,Jungtiniai Arabų Emyratai,Dubajus,3,2024-03-18
+Blue Sea Lagos De Cesar,979,4,Kanarų salos,Tenerifė,4,2024-03-24
+Millennium Central Dubai Downtown,989,4,Jungtiniai Arabų Emyratai,Dubajus,5,2024-05-01
+Precise Resort Tenerife,989,4,Kanarų salos,Tenerifė,4,2024-03-24
+Royal Princess,989,5,Kroatija,Dubrovnikas,4,2024-05-21
+Delta Hotels City Center Doha,999,5,Kataras, ,3,2024-03-08
+Faraonų lobiai | Pažintinė kelionė,999,5,Egiptas,Marsa Alamas,7,2024-03-16
+Caretta Beach,999,4,Graikija,Zakintas,7,2024-05-21
+Caretta Paradise,999,4,Graikija,Zakintas,7,2024-05-21
+Dellarosa Boutique Hotel & Spa,999,4,Marokas,Marakešas,4,2024-03-12
+Dom Pedro Madeira Ocean Beach,999,4,Madeira, ,7,2024-04-09
+TRH Taoro Garden,1009,4,Kanarų salos,Tenerifė,4,2024-03-24
+Impressive Playa Granada Golf,1009,4,Ispanija,Malaga (Kosta del Solis),7,2024-03-12
+Element West Bay Doha,1019,5,Kataras, ,3,2024-03-21
+Sheraton Cascais Resort,1019,5,Portugalija,Lisabona,4,2024-05-27
+Fergus Puerto de la Cruz,1019,4,Kanarų salos,Tenerifė,4,2024-03-24
+St. Raphael,1029,5,Kipras,Larnaka,7,2024-04-26
+Lx Boutique Hotel,1029,4,Portugalija,Lisabona,4,2024-05-27
+Baia,1029,3,Portugalija,Lisabona,4,2024-05-27
+Sheraton Grand Doha Resort & Convention Hotel,1029,5,Kataras, ,3,2024-03-14
+InterContinental Doha Beach & Spa,1039,5,Kataras, ,3,2024-03-15
+My Story Hotel Ouro,1049,3,Portugalija,Lisabona,4,2024-05-27
+Vila Galé Santa Cruz,1049,4,Madeira, ,7,2024-05-15
+My Story Hotel Tejo,1049,3,Portugalija,Lisabona,4,2024-05-27
+Pestana Promenade Ocean & Spa Resort,1059,4,Madeira, ,7,2024-03-05
+Picalbatros Sands Port Ghalib,1059,5,Egiptas,Marsa Alamas,7,2024-03-09
+Riad Ifoulki,1069,5,Marokas,Marakešas,7,2024-03-19
+"Al Samriya Hotel, Doha, Autograph Collection",1069,5,Kataras, ,3,2024-03-09
+Rixos Gulf Hotel Doha,1069,5,Kataras, ,3,2024-03-09
+Next Savoy Signature,1069,4,Madeira, ,7,2024-03-05
+Picalbatros Oasis Port Ghalib,1069,4,Egiptas,Marsa Alamas,7,2024-03-09
+HG Tenerife Sur,1069,3,Kanarų salos,Tenerifė,4,2024-04-30
+"Fuwairit Kite Beach, Tapestry Collection by Hilton",1079,4,Kataras, ,3,2024-03-14
+DoubleTree by Hilton Resort & Spa Marjan Island,1079,5,Jungtiniai Arabų Emyratai,Dubajus,5,2024-05-01
+Rove La Mer Beach,1089,3,Jungtiniai Arabų Emyratai,Dubajus,5,2024-05-15
+The Bay Hotel & Suites,1089,5,Graikija,Zakintas,7,2024-05-21
+Centara Mirage Beach Resort Dubai,1089,4,Jungtiniai Arabų Emyratai,Dubajus,5,2024-05-22
+Gillham Vineyard,1099,5,Šiaurės Kipras, ,7,2024-04-19
+Vila Baleira Funchal,1099,4,Madeira, ,7,2024-05-15
+Hilton Salwa Beach Resort & Villas,1099,5,Kataras, ,3,2024-03-11
+Stella Di Mare Dubai Marina,1109,5,Jungtiniai Arabų Emyratai,Dubajus,3,2024-03-18
+Czar Lisbon,1109,4,Portugalija,Lisabona,4,2024-04-08
+Royal M Hotel & Resort Abu Dhabi,1119,5,Jungtiniai Arabų Emyratai,Abu Dabis,7,2024-03-21
+Farol Hotel,1119,5,Portugalija,Lisabona,4,2024-05-27
+Picalbatros Palace Port Ghalib,1119,5,Egiptas,Marsa Alamas,7,2024-04-13
+Adagio Premium The Palm,1129,4,Jungtiniai Arabų Emyratai,Dubajus,3,2024-03-18
+"Radisson Blu Hotel, Abu Dhabi Yas Island",1139,4,Jungtiniai Arabų Emyratai,Abu Dabis,7,2024-03-12
+Sol Costa Atlantis Tenerife,1139,4,Kanarų salos,Tenerifė,4,2024-03-24
+Pestana Cidadela Cascais,1149,5,Portugalija,Lisabona,4,2024-04-08
+Golden Residence,1149,4,Madeira, ,7,2024-03-19
+Enotel Sunset Bay,1149,4,Madeira, ,7,2024-03-19
+"Marsa Malaz Kempinski, The Pearl",1159,5,Kataras, ,3,2024-03-21
+Atlantic Mirage,1159,4,Kanarų salos,Tenerifė,4,2024-03-24
+Sofitel Abu Dhabi Corniche,1159,5,Jungtiniai Arabų Emyratai,Abu Dabis,7,2024-03-21
+Mandarin Oriental,1169,5,Kataras, ,3,2024-03-15
+Anantara Eastern Mangroves Abu Dhabi Hotel,1169,5,Jungtiniai Arabų Emyratai,Abu Dabis,7,2024-03-19
+Graikų pranašystės | Pažintinė kelionė,1169,5,Graikija, ,7,2024-05-19
+LEGOLAND Hotel Dubai,1179,4,Jungtiniai Arabų Emyratai,Dubajus,3,2024-03-18
+Flamingo Beach Mate,1199,4,Kanarų salos,Tenerifė,3,2024-03-03
+The Chedi Katara,1199,5,Kataras, ,3,2024-03-24
+Pestana CR7,1209,4,Madeira, ,7,2024-03-05
+Khalidiya Palace Rayhaan by Rotana,1209,5,Jungtiniai Arabų Emyratai,Abu Dabis,7,2024-03-12
+KN Hotel Arenas del Mar,1219,4,Kanarų salos,Tenerifė,4,2024-04-16
+Abora Buenaventura by Lopesan Hotels,1229,4,Kanarų salos,Gran Kanarija,4,2024-03-04
+Lord's Palace,1229,5,Šiaurės Kipras, ,7,2024-05-24
+Be Live Experience La Nina,1229,4,Kanarų salos,Tenerifė,3,2024-03-03
+Fairmont Bab Al Bahr,1239,5,Jungtiniai Arabų Emyratai,Abu Dabis,7,2024-03-14
+Fairmont Doha,1239,5,Kataras, ,3,2024-03-16
+Grande Real Villa Itália Hotel & Spa,1249,5,Portugalija,Lisabona,4,2024-04-08
+Abora Interclub Atlantic by Lopesan Hotels,1249,4,Kanarų salos,Gran Kanarija,4,2024-03-04
+Alexandra Golden Thassos Boutique,1258,5,Graikija,Tasas,7,2024-05-19
+Gloria Palace San Agustin Thalasso & Hotel,1259,4,Kanarų salos,Gran Kanarija,4,2024-03-04
+Sheraton Abu Dhabi Hotel & Resort,1259,5,Jungtiniai Arabų Emyratai,Abu Dabis,7,2024-03-14
+Mirador Maspalomas by Dunas,1259,3,Kanarų salos,Gran Kanarija,4,2024-03-04
+Saccharum Resort & Spa,1269,5,Madeira, ,7,2024-05-15
+The Views Baía,1269,4,Madeira, ,7,2024-03-05
+Banana Island Resort Doha by Anantara,1279,5,Kataras, ,3,2024-03-04
+Hilton Imperial Dubronik,1279,5,Kroatija,Dubrovnikas,4,2024-05-21
+Castanheiro Boutique,1289,4,Madeira, ,7,2024-05-15
+Abora Catarina by Lopesan Hotels,1289,4,Kanarų salos,Gran Kanarija,4,2024-03-04
+RIU Dubai,1289,4,Jungtiniai Arabų Emyratai,Dubajus,3,2024-03-18
+Corallium Dunamar by Lopesan Hotels,1309,4,Kanarų salos,Gran Kanarija,4,2024-03-25
+Madeira Panoramico,1309,4,Madeira, ,7,2024-05-22
+Beach Rotana Abu Dhabi,1309,5,Jungtiniai Arabų Emyratai,Abu Dabis,7,2024-03-12
+Spring Arona Gran Hotel & Spa,1319,4,Kanarų salos,Tenerifė,4,2024-04-23
+Landmar Playa La Arena,1319,4,Kanarų salos,Tenerifė,5,2024-04-25
+Enotel Magnólia,1319,4,Madeira, ,7,2024-04-09
+Iberotel Costa Mares,1324,5,Egiptas,Marsa Alamas,7,2024-03-02
+Four Seasons Hotel Doha,1329,5,Kataras, ,3,2024-03-19
+Hard Rock Hotel Tenerife,1329,5,Kanarų salos,Tenerifė,4,2024-04-30
+Chamada Prestige Hotel & Spa,1329,5,Šiaurės Kipras, ,7,2024-05-03
+Gran Melia Palacio De Isora,1339,5,Kanarų salos,Tenerifė,4,2024-04-30
+Bab Al Qasr Hotel,1349,5,Jungtiniai Arabų Emyratai,Abu Dabis,7,2024-03-21
+The Vine Hotel,1359,5,Madeira, ,7,2024-03-19
+The Views Oásis,1359,4,Madeira, ,7,2024-04-23
+Olympic Lagoon Resort Ayia Napa,1379,5,Kipras,Larnaka,7,2024-04-26
+Pestana Royal All Inclusive Ocean & Spa Resort,1379,5,Madeira, ,7,2024-05-22
+Altis Avenida,1379,5,Portugalija,Lisabona,4,2024-04-08
+Cratos Premium,1379,5,Šiaurės Kipras, ,7,2024-05-03
+Columbia Beach Resort,1409,5,Kipras,Larnaka,7,2024-04-26
+Lopesan Villa Del Conde Resort,1429,5,Kanarų salos,Gran Kanarija,3,2024-03-15
+Lopesan Baobab Resort,1439,5,Kanarų salos,Gran Kanarija,3,2024-03-15
+Saugokitės trolių! | Pažintinė kelionė,1449,5,Norvegija, ,5,2024-05-15
+Egipto paslaptys | Pažintinė kelionė,1469,5,Egiptas,Marsa Alamas,7,2024-03-16
+Hilton Garden Inn Muscat Al Khuwair,1479,4,Omanas,Maskatas,7,2024-05-18
+Lopesan Costa Meloneras Resort and Spa,1489,5,Kanarų salos,Gran Kanarija,4,2024-03-18
+Rixos Marina Abu Dhabi,1539,5,Jungtiniai Arabų Emyratai,Abu Dabis,7,2024-03-07
+Calheta Beach,1549,5,Madeira, ,7,2024-05-08
+Savoy Palace,1559,5,Madeira, ,7,2024-05-22
+Manisa,1579,3,Mauricijus, ,7,2024-03-20
+Crowne Plaza Muscat,1619,4,Omanas,Maskatas,7,2024-05-18
+Shangri-La's Barr Al Jissah - AL WAHA,1629,5,Omanas,Maskatas,7,2024-05-18
+Graduate Roosevelt Island,1649,4,Jungtinės Amerikos Valstijos,Niujorkas,7,2024-03-01
+"Solé Miami, A Noble House Resort",1709,4,Jungtinės Amerikos Valstijos,Majamis,7,2024-05-11
+Grand Hyatt Muscat,1759,5,Omanas,Maskatas,7,2024-05-18
+Le Palmiste Resort & Spa,1789,3,Mauricijus, ,7,2024-03-20
+Urbanica Euclid Hotel,1809,4,Jungtinės Amerikos Valstijos,Majamis,7,2024-05-01
+Shangri-La Al Husn,1889,5,Omanas,Maskatas,7,2024-05-18
+Pestana Miami South Beach,1899,4,Jungtinės Amerikos Valstijos,Majamis,7,2024-05-11
+Casuarina Resort & Spa,1899,3,Mauricijus, ,7,2024-04-07
+Anelia Resort & Spa,1909,4,Mauricijus, ,7,2024-03-20
+Kempinski Hotel Muscat,1919,5,Omanas,Maskatas,7,2024-05-18
+Quinta da Casa Branca,1959,5,Madeira, ,7,2024-05-22
+Ambre Mauritius,2039,4,Mauricijus, ,7,2024-04-07
+Arlo Midtown Times Square Hotel,2079,4,Jungtinės Amerikos Valstijos,Niujorkas,7,2024-04-18
+Veranda Paul et Virginie Hotel & Spa,2119,4,Mauricijus, ,7,2024-04-07
+Radisson Blu Azuri Resort & Spa,2139,4,Mauricijus, ,7,2024-04-07
+Radisson Blu Poste Lafayette Resort & Spa,2159,4,Mauricijus, ,7,2024-04-07
+Sofitel SO Mauritius,2159,5,Mauricijus, ,7,2024-04-07
+Veranda Pointe Aux Biches,2169,4,Mauricijus, ,7,2024-03-20
+Kawada Hotel Downtown Los Angeles,2189,3,Jungtinės Amerikos Valstijos,Los Andželas,10,2024-04-14
+Hard Rock Hotel New York,2209,5,Jungtinės Amerikos Valstijos,Niujorkas,7,2024-03-01
+Islandija – ledo ir ugnies žemė | Pažintinė kelionė,2239,5,Islandija, ,7,2024-05-24
+Pestana Park Avenue,2289,4,Jungtinės Amerikos Valstijos,Niujorkas,7,2024-03-01
+Impressive Punta Cana,2289,5,Dominikos Respublika,Punta Kana,7,2024-03-18
+Punta Cana Princess,2469,5,Dominikos Respublika,Punta Kana,7,2024-03-18
+The Benjamin Royal Sonesta New York,2509,4,Jungtinės Amerikos Valstijos,Niujorkas,7,2024-03-01
+Caribe Deluxe Princess,2509,5,Dominikos Respublika,Punta Kana,7,2024-03-18
+Tropical Deluxe Princess,2509,5,Dominikos Respublika,Punta Kana,7,2024-03-18
+Intercontinental Mauritius,2519,5,Mauricijus, ,7,2024-04-07
+20 Degrés Sud - Relais & Châteaux,2549,5,Mauricijus, ,7,2024-04-07
+Dreamland Maldives - The Unique Sea & Lake Resort Spa,2569,4,Maldyvai, ,7,2024-03-12
+Fihalhohi Island Resort,2599,4,Maldyvai, ,7,2024-03-19
+C Mauritius,2649,4,Mauricijus, ,7,2024-04-07
+Sofitel Mauritius L’Impérial Resort & Spa,2699,5,Mauricijus, ,7,2024-04-07
+Constance Belle Mare Plage,2719,5,Mauricijus, ,7,2024-04-18
+The Residence Mauritius,2759,5,Mauricijus, ,7,2024-04-07
+Kurumba Maldives,2799,5,Maldyvai, ,7,2024-03-12
+Serenade Punta Cana Beach & Spa Resort,2819,5,Dominikos Respublika,Punta Kana,7,2024-03-18
+Constance Prince Maurice,2959,5,Mauricijus, ,7,2024-04-07
+Reethi Beach Resort Maldives,3049,4,Maldyvai, ,7,2024-03-04
+The Hollywood Roosevelt,3089,4,Jungtinės Amerikos Valstijos,Los Andželas,10,2024-05-05
+"Lopesan Costa Bávaro Resort, Spa & Casino",3089,5,Dominikos Respublika,Punta Kana,7,2024-03-18
+RIU Atoll,3319,4,Maldyvai, ,7,2024-03-12
+Heritage Awali,3619,5,Mauricijus, ,7,2024-04-07
+Conrad Los Angeles,3679,4,Jungtinės Amerikos Valstijos,Los Andželas,10,2024-04-07
+Brennia Kottefaru,4289,5,Maldyvai, ,7,2024-03-12
+Embudu Village Resort,4309,3,Maldyvai, ,7,2024-03-23
+You & Me by Cocoon Maldives,4429,5,Maldyvai, ,7,2024-03-12
+Cocoon Maldives,4539,4,Maldyvai, ,7,2024-03-12
+Lily Beach Resort & Spa,5009,5,Maldyvai, ,7,2024-03-12

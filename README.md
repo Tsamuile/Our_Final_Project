@@ -1,7 +1,7 @@
 # Itaka and BalticTours travel offers analysis
 
 ### Details
-**Final project created by:** Gintarė Radavičiūtė and Toma Ivanauskaitė-Samuilė.
+**Final project created by:** [Gintarė Radavičiūtė](https://github.com/RGintare) and [Toma Ivanauskaitė-Samuilė](https://github.com/Tsamuile).
   
 **Project objective**: analyze and compare travel offers for upcoming spring (2024 March 1st - 2024 May 31st) from Itaka and BalticTours agencies.
 

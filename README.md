@@ -11,14 +11,14 @@
 
 **Baltictours_web_scraping.py**
 
- - Inspecting the web page : https://www.baltictours.lt/?month=-2&orderby=date&order=desc&taxonomy2&page=1
+ - Inspecting [BalticTours](https://www.baltictours.lt/?month=-2&orderby=date&order=desc&taxonomy2&page=1) web page.
  - Getting the travel data and adding it to data frame.
  - Transforming and cleaning data.
  - Saving data as CSV file.
 
 **Itaka_web_scraping.py**
 
- - Inspecting the web page : https://www.itaka.lt/paieskos-rezultatai/?view=offerList&adults=2&date-from=2024-03-01&date-to=2024-05-31&total-price=0&currency=EUR
+ - Inspecting [Itaka](https://www.itaka.lt/paieskos-rezultatai/?view=offerList&adults=2&date-from=2024-03-01&date-to=2024-05-31&total-price=0&currency=EUR) web page.
  - Defining a function for newsletter pup-up.
  - Defining a function for load more button.
  - Defining a function for data scraping.
